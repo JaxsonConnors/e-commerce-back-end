@@ -20,6 +20,8 @@
   ### **Usage**
   ___
   Open Insomnia Core and select JSON format. Then You can choose between GET, POST, PUT, and DELETE requests. Make sure your info in JSON format.
+  
+  https://watch.screencastify.com/v/pjd6IsQ2TMabVxSdxBc4
 
   ### **Questions**
   ___
